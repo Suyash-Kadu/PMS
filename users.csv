@@ -1,0 +1,4 @@
+userID,password,authority
+x1234,abcd,admin
+y5678,prq,operator
+z890,xyz,subOperator
